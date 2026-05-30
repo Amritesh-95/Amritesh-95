@@ -1,36 +1,33 @@
-<h1 align="center">Hi there, I'm [Amritesh Kumar] 👋</h1>
+<h1 align="center">Hi there, I'm Amritesh Kumar 💀</h1>
 
-<h3 align="center">A passionate developer building cool things with code.</h3>
+<h3 align="center">A developer building cool things with code.</h3>
 
 <p align="center">
-  <a href="https://github.com/Amritesh-95">
-    <img src="https://komarev.com/ghpvc/?username=Amritesh-95&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Amritesh-95&label=Profile%20views&color=8a2be2&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🌑 About Me
 
-* 🔭 I’m currently working on **[Personal Finance Tracker with AI]**
-* 🌱 I’m currently learning **[Currently focused on MERN]**
+* 🔭 I’m currently working on a **Personal Finance Tracker with AI** and developing the backend for **Skillify**.
+* 🌱 I’m currently learning and focusing on the **MERN Stack** while grinding DSA.
 * 💻 Participating in the **#100DaysOfCode** challenge to level up my skills.
-* 💬 Ask me about **Java, Databases, or backend development.**
-* 📫 How to reach me: **[amritesh2002.ak@gmail.com]**
+* 💬 Ask me about **Java, PostgreSQL, IntelliJ, or backend architecture.**
+* 📫 How to reach me: **amritesh2002.ak@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- Java -->
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <!-- PostgreSQL -->
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <!-- IntelliJ IDEA -->
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-  <!-- Add GitHub -->
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
@@ -38,13 +35,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Amritesh-95">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amritesh-95&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amritesh-95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Amritesh's GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Amritesh-95">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritesh-95&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritesh-95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
